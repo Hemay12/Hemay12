@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Hemay12
 - 👀 I’m interested in python 
-- 🌱 I’m currently learning tkinter
-- 💞️ I’m looking to collaborate on project of building billing system using tkinter
+- 🌱 I’m interested in python GUI projects 
+- 💞️ I know tkinter and kivy basics
 - 📫 How to reach me ...
-- hemaysorathia1@gmail.com or whatsapp on 7802987959
+- hemaysorathia1@gmail.com or whatsapp on 7567939541
  
 
 <!---
